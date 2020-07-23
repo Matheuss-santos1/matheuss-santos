@@ -1,0 +1,9 @@
+body {background-color: wheat}
+#t1 {
+    background-color: rgb(233, 223, 223);
+    color: lightslategrey;
+}
+#caixa {
+    margin: 10px;
+    border: lightgrey solid;
+}
