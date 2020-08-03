@@ -1,0 +1,138 @@
+html, body {
+    margin: 0;
+}
+#bloco {
+    border: 2px #55402D solid;
+    padding: 10px 15px 10px 15px;
+    text-decoration: none;
+    color:#D4AC70;
+    border-radius: 10px;
+}
+#fundo {
+    text-align: center;
+    background-image: url("img/light-bulb-3104355_1920.jpg");
+    height: 100%;
+    background-size: cover;
+}
+#titulo {
+    padding-top: 20%;
+    font-size: 40px;
+}
+a:hover {
+    background-color: #AC9C8C;
+}
+.imge {
+    width: 90%;
+    height: 50%;
+}
+.coluna {
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 40%;
+}
+.justificado {
+    text-align: justify;
+}
+.centralizado {
+    text-align: center;
+}
+section  {
+    float: left;
+    padding: 20px;
+}
+.colunadois {
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 15%;
+    text-align: center;
+}
+.icone {
+    border-radius: 100%;
+    height: 61px;
+    width: 61px;
+    text-align: center;
+
+    
+}
+.destaque {
+    background-color: #f7f7f7;
+}
+.destaquedois {
+    background-color: #734E39;
+}
+.colunatres {
+    float: left;
+    padding: 0 2%;
+    position: relative;
+    width: 29%;
+}
+#imgeu {
+    width: 90%;
+    height: 40%;
+}
+.tamanho {
+    padding: 3%;
+}
+header {
+    background-color: black;
+    color: white;
+    width: 100%;
+    position: fixed;
+    height: 65px;
+    z-index: 10;
+}
+#logo {
+    width: 3.5%;
+    margin-top: 0.6%;
+    margin-left: 2.5%;
+    float: left;
+}
+#menu {
+    float: right;
+    margin-right: 3%;
+    list-style: none;
+    text-transform: uppercase;
+    margin-top: 4px;
+}
+li {
+    float: left;
+    padding: 20 10 20 10;
+    text-decoration: none;
+    color: white;
+}
+li:hover {
+    background-color: #F6D992;
+    cursor: pointer;
+    transform: translateY(-8px);
+
+}
+footer {
+    background-color: #262017;
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 30px 0 50px 0;
+    color: #fff;
+}
+.icone:hover {
+    background-color: #E9C980;
+    cursor: pointer;
+    transform: translateY(-8px);
+    box-shadow: 4px 20px 16px 0px rgba(50, 50, 50);
+}
+#violao {
+    width: 3.5%;
+    margin-top: 0.6%;
+    margin-left: 5%;
+    float: left;
+    border-radius: 50%;
+}
+#violao:hover {
+    background-color: #262017;
+}
+a{
+    text-decoration: none;
+    color: #A6774E;
+}
