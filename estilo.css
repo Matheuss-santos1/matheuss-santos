@@ -128,9 +128,10 @@ a{
     }
     .coluna, .dois, .tres, .quatro {
         display: block;   
-        width: 100%;
+        width: 80%;
         padding: 0;
         float: none;
+        margin: 10px auto;
    }
    #logodiv {
        width: 100%;
