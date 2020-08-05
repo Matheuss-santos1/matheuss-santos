@@ -19,6 +19,7 @@ html, body {
     padding-top: 20%;
     font-size: 60px;
     line-height: 0.6;
+    text-shadow: 0 0 3px #AC9C8C;
 }
 #subtitulo {
     margin-left: 20%;
