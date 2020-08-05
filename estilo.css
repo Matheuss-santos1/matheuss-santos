@@ -119,6 +119,9 @@ footer {
 }
 .icone:hover {
     background-color: #E9C980;
+    cursor: pointer;
+    transform: translateY(-10px);
+    box-shadow: 4px 30px 16px 0px rgba(50, 50, 50, 50);
 }
 a{
     text-decoration: none;
