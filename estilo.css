@@ -27,6 +27,7 @@ html, body {
     margin-right: 20%;
     border-top: 3px solid black;
     text-shadow: 1px 1px  black;
+    text-shadow: 0 0 3px #AC9C8C;
 }
 a:hover {
     background-color: #AC9C8C;
